@@ -1,0 +1,3 @@
+npx tailwindcss -i ./src/input.css -o ./dist/Style.css --watch
+
+by using scr/input.css gerenate the dist/Style.css
